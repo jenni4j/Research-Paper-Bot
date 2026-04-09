@@ -30,12 +30,7 @@ git clone https://github.com/jenni4j/Research-Paper-Bot.git
 cd Research-Paper-Bot
 ```
 
-2. Install Python dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Install React dependencies:
+2. Install React dependencies:
 ```bash
 npm install
 ```
