@@ -2,6 +2,8 @@
 
 A web application that lets you upload PDF files and ask questions about them in real-time using AI-powered analysis.
 
+![Research Paper Bot](https://github.com/jenni4j/Research-Paper-Bot/blob/main/PaperBot.png)
+
 ## Features
 
 - Upload PDF files
@@ -13,7 +15,6 @@ A web application that lets you upload PDF files and ask questions about them in
 
 - **Frontend:** React + CSS
 - **Backend:** Python
-- **Demo:** [Watch the demo](https://www.loom.com/share/0cbc3699312c46b19c6de1ce372c66b8?sid=eb2a4844-ed8f-4f97-b6bd-b9269eac283d)
 
 ## Getting Started
 
@@ -50,5 +51,6 @@ npm start
 3. Open your browser and upload a PDF to begin asking questions.
 
 ## Demo
+[Watch the demo](https://www.loom.com/share/0cbc3699312c46b19c6de1ce372c66b8?sid=eb2a4844-ed8f-4f97-b6bd-b9269eac283d)
 
-![Research Paper Bot](https://github.com/jenni4j/Research-Paper-Bot/blob/main/PaperBot.png)
+
